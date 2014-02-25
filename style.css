@@ -1,8 +1,12 @@
-
+img .stretch {
+    max-width: 100%;
+}
 
 .tint {  
     position: relative;
-    text-align: center;  
+    text-align: center;
+    width: 1256px;
+    height: 746px;  
 }
 
 h2 {
@@ -42,6 +46,8 @@ h4 {
       -o-background-size: cover;
       -moz-background-size: cover;
     background-size: cover;
+    width: 1256px;
+    height: 746px;
 }  
 
 #navigation {
