@@ -1,13 +1,8 @@
-/* once I changed the text-align to center on .tint, didn't need stretch
-.stretch {
-  max-width: 100%;
-  background-size: cover;
-}*/
-
 
 .tint {  
-    position: relative;
-    text-align: center;  
+    position: relative;  
+    width: 100%;
+    text-align: center;
 }
 
 h2 {
